@@ -6,7 +6,7 @@ I want to take the sense of reading context and setting priorities that I built 
 
 ## What I'm Building 🧑🏻‍💻
 
-- [**AI Football Scout**](https://github.com/Jade-ok/AI-Football-Scout)** - A multi-agent LLM system that answers football scouting questions and verifies every answer against the source data before returning it. Currently building the evaluation suite.
+- [**AI Football Scout**](https://github.com/Jade-ok/AI-Football-Scout) - A multi-agent LLM system that answers football scouting questions and verifies every answer against the source data before returning it. Currently building the evaluation suite.
 - [**PrairieCalendar**](https://chromewebstore.google.com/detail/prairiecalendar/jfgdhmfkgejkgliebffeohcddbohldfk) - A Chrome extension that syncs exam schedules to Google Calendar, published on the Chrome Web Store. Currently working on cross-browser support.
 - [**UBC Course Navigator**](https://github.com/Jade-ok/CIC2026S_Satoori_CourseNavigator) - An AI-powered course recommendation tool for UBC students, and my first project using AWS — a project I plan to keep developing.
 - [**CareHandoff**](https://github.com/Jade-ok/YouCode2026_Clover) - A voice-to-text handoff system that reduced animal shelter documentation time from 5 minutes to 30 seconds.

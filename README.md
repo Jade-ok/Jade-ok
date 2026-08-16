@@ -8,7 +8,7 @@ I want to take the sense of reading context and setting priorities that I built 
 
 - [**AI Mock Interview Coach**](https://github.com/Jade-ok/CIC_mock-interview-coach) – A real-time voice interview practice tool that uses three AI agents to analyze resumes and job descriptions, run adaptive interviews, and provide personalized feedback. Winner of the UBC Cloud Innovation Centre × AWS Hackathon.
 - [**AI Football Scout**](https://github.com/Jade-ok/AI-Football-Scout) – A multi-agent LLM system that answers football scouting questions and verifies every answer against source data before returning it. Currently building the evaluation suite.
-- [**PrairieCalendar**](https://chromewebstore.google.com/detail/prairiecalendar/jfgdhmfkgejkgiebffeohcddbohldfk) – A Chrome extension that syncs exam schedules to Google Calendar, published on the Chrome Web Store and used by real students. Currently working on cross-browser support.
+- [**PrairieCalendar**](https://chromewebstore.google.com/detail/prairiecalendar/jfgdhmfkgejkgliebffeohcddbohldfk) – A Chrome extension that syncs exam schedules to Google Calendar, published on the Chrome Web Store and used by real students. Currently working on cross-browser support.
 - [**UBC Course Navigator**](https://github.com/Jade-ok/CIC2026_Satoori_CourseNavigator) – An AI-powered course recommendation tool for UBC students, and my first project built with AWS.
 - [**CareHandoff**](https://github.com/Jade-ok/YouCode2026_Clover) – A voice-to-text handoff system that reduced animal shelter documentation time from 5 minutes to 30 seconds.
 
